@@ -8,7 +8,7 @@ Notes for Assignment 1_1
 
 Notes for Assignment 1_2
 - We did not create any custom rooms in CAD software
-- The left joystick of the sbox controller does xy movement
+- The left joystick of the xbox controller does xy movement
 - You must be in the light almost to get the point
  
 We have both contributed to this code in an equitable manner and agree that, to the best of our knowledge, it accurately represents our understanding for the assignment.    
